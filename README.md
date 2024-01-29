@@ -14,7 +14,8 @@ Es el módulo de ML tuvo una duración de 40hr tomadas en 20 clases, donde las p
   <summary> 👁️ Aprendizaje Supervizado </summary>
   
   - 🌲 [Árbol de decisión](https://github.com/PaolaDaft/ML_Morelos_Notebooks2024/tree/main/Clase4) | Clase 4
-  - Regresión
+  - 🎲 [Regresión Logísica](https://github.com/PaolaDaft/ML_Morelos_Notebooks2024/blob/main/Clase5/notebooks-alumnos/Ejemplo_base_de_Regresi%C3%B3n_Log%C3%ADstica.ipynb) | Clase 5
+  - 🚚 [Random forest](https://github.com/PaolaDaft/ML_Morelos_Notebooks2024/blob/main/Clase5/notebooks-alumnos/Intro_a_Random_Forest.ipynb) | Clase 5
   
 </details>
 
