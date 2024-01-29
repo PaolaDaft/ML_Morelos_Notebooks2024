@@ -1,4 +1,4 @@
-# 🌲 Árbol de decisión 
+# 🌲 Árbol de decisión - resultados
 
 > ***% de aciertos sobre el set de entrenamiento: 80.96%***
 > 
